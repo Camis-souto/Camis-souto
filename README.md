@@ -1,7 +1,7 @@
 ## Olá! Seja bem vindo(a), eu sou a Camilla Souto 🔭
 
 
-- 🌱 Estou fazendo faculdade de Jogos Digitais. 
+- 🌱 Atualmente faço faculdade de Jogos Digitais. 
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Curiosidades: Alem de programadora também sou maquiadora e taróloga. 
 
