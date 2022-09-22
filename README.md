@@ -11,15 +11,15 @@
   <a href="https://github.com/camis-souto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camis-souto&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camis-souto&layout=compact&langs_count=7&theme=jolly"/>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/b3906366ef43bd42c9dd8ba8f836bf50.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br/>
+  
 </div>
 
 ##
 
-<div> 
+<div align="right"> 
    <a href = "mailto:camillalsouto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilla-souto-561845141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+  <a href="https://www.linkedin.com/in/camilla-souto-561845141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/b3906366ef43bd42c9dd8ba8f836bf50.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br/>
 </div>
 
 
