@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/camis-souto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camis-souto&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camis-souto&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camis-souto&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camis-souto&layout=compact&langs_count=6&theme=radical"/>
   
 </div>
 
